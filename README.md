@@ -41,6 +41,9 @@ The development process for Sparkify churn prediction is divided into three step
      3.3 Gradient-boosted Tree Classifier.
      
      Using the f1 metric the Random Forest is the best model for predicting Churn.
+## Files:
+   Sparkify.ipynb: Notebook where the code is.
+   "mini_sparkify_event_data.json": The small data subset we used in this case. Too big for github.
     
 ## Licensing, Authors, and Acknowledgements
    Thanks to Udacity.
