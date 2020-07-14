@@ -21,7 +21,26 @@ Additionally, PySpark needs to be installed what can be done with pip install py
 
 Predicting churn is a very common, important and challenging task for companies which business model relies on products with a subscription model. It minimizes customer defection by predicting which customers are likely to cancel a subscription to a service and take actions in order to prevent it.
 In this capstone project, Udacity provided a 12 GB dataset of fictitious user interactions with a music streaming company called Sparkify. Whether the user listens to a song, adds it to a playlist or pushes the thumbs up button, all the user activities are logged and can be used for churn prediction. 
+
 The development process for Sparkify churn prediction is divided into three steps:
-Exploratory data analysis.
-Feature engineering.
-Modelling and evaluation.
+
+  1. Exploratory data analysis.
+     Load, exploratory analysis, understanding data...
+     
+  2. Feature engineering.
+     Create and transform features.
+     New features: Thumbs up/down, songs count, length...
+  
+  3. Modelling and evaluation.
+     3 models tested through a pipeline and hipertuning grid parameters:
+     
+     3.1 Random Forest Classifier.
+     
+     3.2 Logistic Regression.
+       
+     3.3 Gradient-boosted Tree Classifier.
+     
+     Using the f1 metric the Random Forest is the best model for predicting Churn.
+    
+## Licensing, Authors, and Acknowledgements
+   Thanks to Udacity and FigureEight.
