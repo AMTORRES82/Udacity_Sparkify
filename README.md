@@ -43,4 +43,4 @@ The development process for Sparkify churn prediction is divided into three step
      Using the f1 metric the Random Forest is the best model for predicting Churn.
     
 ## Licensing, Authors, and Acknowledgements
-   Thanks to Udacity and FigureEight.
+   Thanks to Udacity.
