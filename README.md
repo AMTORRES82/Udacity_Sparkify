@@ -44,6 +44,8 @@ The development process for Sparkify churn prediction is divided into three step
 ## Files:
    Sparkify(1).ipynb: Notebook where the code is.
    "mini_sparkify_event_data.json": The small data subset we used in this case. Too big for github.
-    
+   
+   Medium blog
+   https://medium.com/@newcastilian/churn-prediction-with-pyspark-6085efce6f7d
 ## Licensing, Authors, and Acknowledgements
    Thanks to Udacity.
