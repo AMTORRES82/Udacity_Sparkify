@@ -48,5 +48,8 @@ The development process for Sparkify churn prediction is divided into three step
    Medium blog
    https://medium.com/@newcastilian/churn-prediction-with-pyspark-6085efce6f7d
    
+   Git:
+   https://github.com/AMTORRES82/Udacity_Sparkify
+   
 ## Licensing, Authors, and Acknowledgements
    Thanks to Udacity.
